@@ -1,0 +1,16 @@
+E:\Felipe\programacao_web\dotnet\teste\bin\Debug\net5.0\teste.exe
+E:\Felipe\programacao_web\dotnet\teste\bin\Debug\net5.0\teste.deps.json
+E:\Felipe\programacao_web\dotnet\teste\bin\Debug\net5.0\teste.runtimeconfig.json
+E:\Felipe\programacao_web\dotnet\teste\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+E:\Felipe\programacao_web\dotnet\teste\bin\Debug\net5.0\teste.dll
+E:\Felipe\programacao_web\dotnet\teste\bin\Debug\net5.0\ref\teste.dll
+E:\Felipe\programacao_web\dotnet\teste\bin\Debug\net5.0\teste.pdb
+E:\Felipe\programacao_web\dotnet\teste\obj\Debug\net5.0\teste.csprojAssemblyReference.cache
+E:\Felipe\programacao_web\dotnet\teste\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+E:\Felipe\programacao_web\dotnet\teste\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+E:\Felipe\programacao_web\dotnet\teste\obj\Debug\net5.0\teste.AssemblyInfo.cs
+E:\Felipe\programacao_web\dotnet\teste\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+E:\Felipe\programacao_web\dotnet\teste\obj\Debug\net5.0\teste.dll
+E:\Felipe\programacao_web\dotnet\teste\obj\Debug\net5.0\ref\teste.dll
+E:\Felipe\programacao_web\dotnet\teste\obj\Debug\net5.0\teste.pdb
+E:\Felipe\programacao_web\dotnet\teste\obj\Debug\net5.0\teste.genruntimeconfig.cache
